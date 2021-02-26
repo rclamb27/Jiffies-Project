@@ -5,7 +5,7 @@ Ryan Lamb 351- 06
 
 
 
-#Sample Output
+## Sample Output
 
 ```
 > $ cat /proc/jiffies
@@ -16,3 +16,9 @@ Ryan Lamb 351- 06
 > $ cat /proc/seconds
 ```
 ![](/seconds/seconds.png)
+
+
+
+# Hello GPR Output
+
+![](helloGPR.png)
