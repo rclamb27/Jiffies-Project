@@ -3,5 +3,15 @@ A simple kernel project that compiles by running a makefile by entering "make" i
 
 Ryan Lamb 351- 06
 
-# Sample Output
 
+
+#Sample Output
+
+```
+> $ cat /proc/jiffies
+```
+
+
+```
+> $ cat /proc/seconds
+```
