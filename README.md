@@ -10,8 +10,9 @@ Ryan Lamb 351- 06
 ```
 > $ cat /proc/jiffies
 ```
-
+![](/jiffie/jiffies.png)
 
 ```
 > $ cat /proc/seconds
 ```
+![](/seconds/seconds.png)
